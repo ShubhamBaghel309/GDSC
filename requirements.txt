@@ -1,6 +1,7 @@
 nltk>=3.8.1
 streamlit>=1.31.0
 matplotlib>=3.8.2
+sqlite3 >= 3.35.0
 torch>=2.1.0
 sentencepiece>=0.1.99
 transformers>=4.37.0
