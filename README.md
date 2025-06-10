@@ -1,6 +1,6 @@
 # AI Teacher Assistant
 
-(https://img.shields.io/badge/GDSC-Solution%20Challenge%202024-blue)
+
 ![SDG 4](https://img.shields.io/badge/SDG-4%20Quality%20Education-red)
 
 ## 📚 Project Overview
